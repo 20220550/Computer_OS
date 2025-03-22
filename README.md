@@ -44,4 +44,8 @@ else if (pid == 0) {
 
 #### 복합문제 7번
 
+![Image](https://github.com/user-attachments/assets/66ea1d40-f0d9-48e1-bda0-99c32ec0f1eb)
 
+![Image](https://github.com/user-attachments/assets/c1f28088-db8a-4558-a054-b627522e89e7)
+
+![Image](https://github.com/user-attachments/assets/4ca82f6b-23b7-47be-8f14-1188884d8e20)
