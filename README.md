@@ -49,3 +49,6 @@ else if (pid == 0) {
 ![Image](https://github.com/user-attachments/assets/c1f28088-db8a-4558-a054-b627522e89e7)
 
 ![Image](https://github.com/user-attachments/assets/4ca82f6b-23b7-47be-8f14-1188884d8e20)
+
+# 4주차 과제
+
