@@ -51,4 +51,5 @@ else if (pid == 0) {
 ![Image](https://github.com/user-attachments/assets/4ca82f6b-23b7-47be-8f14-1188884d8e20)
 
 # 4주차 과제
+#### 복합문제 1번
 
